@@ -1,0 +1,3 @@
+- about: nothing
+- extra: ~sign up the .apk (recommended)~ signing now included! 🥳
+- note: you will be notified when this build works bcoz its still not working out :(

@@ -1,0 +1,6 @@
+*.jks
+*.b64
+/node_modules
+
+# Local Netlify folder
+.netlify
