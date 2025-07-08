@@ -1,3 +1,3 @@
 - about: nothing
-- extra: ~sign up the .apk (recommended)~ signing now included! 🥳
+- extras: you should sign up the .apk coz theses aren't (recommended)
 - note: you will be notified when this build works bcoz its still not working out :(
