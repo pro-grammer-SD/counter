@@ -1,3 +1,4 @@
-- about: nothing
-- extras: you should sign up the .apk coz theses aren't (recommended)
-- note: you will be notified when this build works bcoz its still not working out :(
+# ℹ️ About:
+ - A counter app made in KivyMD, with extended support to Android
+# 📦 Extras:
+ - You should sign up the .apk as these aren't (recommended)
